@@ -115,4 +115,3 @@ Example output:
 
 If this tool helps you verify and secure files, feel free to contribute, report bugs, or suggest features via GitHub issues or pull requests.
 
-```
